@@ -1,0 +1,164 @@
+body{
+  background-color: #dbdbdb;
+
+}
+
+hr{
+  border: 1px solid gray;
+}
+
+th{
+  font-family: initial;
+      font-size: initial;
+}
+
+#resume{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#Semester_btn{
+  margin-left: 182px;
+    margin-top: -35px;
+}
+h5{
+  font-family: 'Ubuntu', sans-serif;
+}
+#ContactLines{
+  padding-top: 15px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#Contact_btn{
+  margin-left: 244px;
+    margin-top: -34px
+}
+
+#centering_btn{
+  margin-left: 186px;
+margin-top: -50px;
+
+}
+
+#Horizntal{
+  margin-top: 26px;
+}
+
+#margin_btn{
+  margin-left: 186px;
+  margin-top: -32px
+}
+
+#Centering{
+      margin-top: 16px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+#function{
+  padding-top: 15px;
+  width: 338px;
+    padding-left: 20px;
+    position: fixed;
+}
+
+#sh_btn{
+  margin-top: 23px;
+  height: 35px;
+  padding: 0.09rem 1rem;
+  font-size: 1.25rem;
+}
+
+#right{
+  background-color:#827397 ;
+  position: static;
+    margin-left: 379px;
+}
+#page{
+  width: 21cm;
+      background-color: white;
+      margin: 1% auto 1% auto;
+    padding: 0.2cm 1.3cm 1cm 1.3cm;
+    box-shadow: 0px 0px 20px 0px #000;
+    line-height: 1.4em;
+  }
+#table{
+  font-size: 1.10rem;
+  margin-left: 36px;
+
+}
+h1{
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 4.2rem;
+}
+.cont1{
+  text-align: center;
+}
+#cont2{
+  margin-inline-start: 38px;
+margin-block-start: -12px
+}
+hr{
+  border: 5;
+}
+.cont2{
+  text-align: center;
+}
+.align{
+  text-align: center;
+}
+#print{
+  height: 35px;
+  padding: 0.09rem 1rem;
+  font-size: 1.25rem;
+}
+#di_btn{
+  height: 26px;
+    padding-top: 0px;
+    font-size: 1em;
+}
+#ii_btn{
+  height: 26px;
+    padding-top: 0px;
+    font-size: 1em;
+}
+
+#casebutton{
+  margin-left: 139px;
+    margin-top: -50px;
+}
+
+#case{
+  margin-top: 13px;
+}
+#stylebtn{
+  margin-left:173px;
+  margin-top: -40px;
+}
+
+#Font{
+  margin-top: 20px;
+}
+#font_btn{
+  margin-left: 186px;
+  margin-top: -32px;
+}
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.Tajawal{
+  font-family: 'Tajawal', sans-serif;
+}
+.sans{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.monsta{
+font-family: 'Montserrat', sans-serif;
+}
+h4{
+  font-weight: bold;
+}
+.case{
+  text-transform: uppercase;
+}
