@@ -1,3 +1,5 @@
+alert("This Website Is Not Made For mobile Devices or any other smaller Screen as you would not be able to Update your reume in Mobile Phones So better to open in Desktop Rest Is Your Choice")
+
 function printDiv(divName) {
   var printContents = document.getElementById(divName).innerHTML;
   var originalContents = document.body.innerHTML;
