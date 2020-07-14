@@ -1,4 +1,4 @@
-# Resume generator
+# Resume Generator
 Web based editor to create and edit Resume in a customizable template with the facility to save the file in .pdf formate.  
 
 **If you enjoy this project,  Please do :star: star the repository
@@ -14,7 +14,7 @@ Web based editor to create and edit Resume in a customizable template with the f
 - Resume content can be edited just like a normal document editor (cut,copy,undo etc).
 - Entire sections can be added or removed just by using the functionality provided within the Resume Builder Web Page.
 - Section visibility can be toggled while retaining the content.
-- Options provided in the left panel to modify the template and formatting.
+- Options are provided in the left panel to modify the Resume template and apply the formattings to it of your choice.
 
 ----------------------------------------------------------------------------------------------------------------
 To setup the project on your local machine:
